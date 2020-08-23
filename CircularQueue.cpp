@@ -54,9 +54,18 @@ int main() {
     enqueue(17);
     enqueue(217);
     dequeue();
-
-
+    dequeue();
+    dequeue();
     print();
+    enqueue(217);
+    enqueue(217);
+    enqueue(217);
+    enqueue(217);
+    enqueue(217);
+    enqueue(217);
+    enqueue(217);
+    enqueue(217);
+
 
 
 
